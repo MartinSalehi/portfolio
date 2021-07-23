@@ -1,0 +1,24 @@
+
+.redCenter{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+.purpleLeft {
+    color: purple;
+    font-weight: bold;
+    text-align: left;
+}
+
+#uniqueColorFont {
+    color: yellow;
+}
+    
+body {
+    background-color: seagreen;
+}
+
+header {
+    background-color: lightblue;
+}
