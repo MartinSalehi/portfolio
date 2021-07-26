@@ -22,3 +22,11 @@ body {
 header {
     background-color: lightblue;
 }
+
+div {
+    width: 400px;
+    border: 15px solid turquoise;
+    padding: 50px;
+    margin: 20px;
+    background-color: orange;
+  }
